@@ -12,8 +12,8 @@ Fulfilled the required Linear and Binary search program algorithms using MIT App
 ![img](http://i.imgur.com/6nEJB4K.jpg)
 ![img](http://i.imgur.com/7lxqnnW.jpg)
 ![img](http://i.imgur.com/yeAXLl0.jpg)
-![img](http://i.imgur.com/yDYspT3.jpg)
-![img](http://i.imgur.com/6glv1Ta.jpg)
+![img](http://i.imgur.com/FW6lJgZ.jpg)
+![img](http://i.imgur.com/SDHzzcz.jpg)
 
 ####Editing Screen
 ![img](http://i.imgur.com/MlNi4Mr.jpg)
@@ -26,6 +26,7 @@ Fulfilled the required Linear and Binary search program algorithms using MIT App
 ![img](http://i.imgur.com/sQRqR7v.jpg)
 
 ####Full Albums
-To see the full album, see [BONUS](http://imgur.com/a/ZWbIX)
+To see the full album, see [BONUS](http://imgur.com/a/ZWbIX) and [BONUS_EMULATOR] (http://imgur.com/a/CxfEf)
+  
 
 
