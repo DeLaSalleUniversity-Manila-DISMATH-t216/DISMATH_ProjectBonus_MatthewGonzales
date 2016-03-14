@@ -1,7 +1,7 @@
 # DISMATH_ProjectBonus_MatthewGonzales
 Fulfilled the required Linear and Binary search program algorithms using MIT App Inventor 2.
 
-
+###Linear and Binary Search
 
 ####Notes
 - The app has a main menu that allows the user to select between linear and binary search.
@@ -26,7 +26,26 @@ Fulfilled the required Linear and Binary search program algorithms using MIT App
 ![img](http://i.imgur.com/sQRqR7v.jpg)
 
 ####Full Albums
-To see the full album, see [BONUS](http://imgur.com/a/ZWbIX) and [BONUS_EMULATOR] (http://imgur.com/a/CxfEf)
+To see the full album, see [BONUS](http://imgur.com/a/ZWbIX) and [BONUS_EMULATOR](http://imgur.com/a/CxfEf)
   
+###Bubble Sort
 
+####Notes
+- Program allows user to input values.
+- Program sorts these values and displays them below input.
 
+####The App running on aiStarter
+![img](http://i.imgur.com/4XiS8KQ.jpg)
+![img](http://i.imgur.com/zUZdvoz.jpg)
+![img](http://i.imgur.com/LG509UE.jpg)
+
+####Editing Screen
+![img](http://i.imgur.com/eqdTTmh.jpg)
+![img](http://i.imgur.com/swKtkXi.jpg)
+
+####Blocks
+![img](http://i.imgur.com/ztCiNCl.jpg)
+![img](http://i.imgur.com/1dh9rXz.jpg)
+
+####Full Albums
+To see the full album, see [BUBBLE](http://imgur.com/a/rra2e) and [BUBBLE_EMULATOR](http://imgur.com/a/JwviE)
