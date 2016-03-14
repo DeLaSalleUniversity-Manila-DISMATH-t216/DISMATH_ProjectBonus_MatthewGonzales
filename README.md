@@ -39,11 +39,11 @@ To see the full album, see [BONUS](http://imgur.com/a/ZWbIX) and [BONUS_EMULATOR
 ![img](http://i.imgur.com/zUZdvoz.jpg)
 ![img](http://i.imgur.com/LG509UE.jpg)
 
-####Editing Screen
+####Blocks
 ![img](http://i.imgur.com/eqdTTmh.jpg)
 ![img](http://i.imgur.com/swKtkXi.jpg)
 
-####Blocks
+####Editing Screen
 ![img](http://i.imgur.com/ztCiNCl.jpg)
 ![img](http://i.imgur.com/1dh9rXz.jpg)
 
